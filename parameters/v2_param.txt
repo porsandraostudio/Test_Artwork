@@ -1,0 +1,4 @@
+acceleration : 0.00
+postion : 0.00
+speed : 10.00
+velocity : 1.00
